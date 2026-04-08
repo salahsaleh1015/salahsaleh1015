@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=salahsaleh1015&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -42,44 +42,19 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📱 Delivery App  
-`Flutter` `Firebase` `Clean Architecture`  
-- Authentication & real-time data  
-- Scalable and maintainable structure  
-🔗 https://github.com/YOUR_USERNAME/delivery_app  
-
----
-
-#### 🛒 E-Commerce App  
-`Flutter` `State Management`  
-- Product listing & cart system  
-- Optimized UI performance  
-🔗 https://github.com/YOUR_USERNAME/ecommerce_app  
-
----
-
-#### 📌 Problem Tracking App  
-`Flutter` `Firestore`  
-- Manage and track issues  
-- Clean and organized codebase  
-🔗 https://github.com/YOUR_USERNAME/problem_tracker  
-
----
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salahsaleh1015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=salahsaleh1015&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahsaleh1015&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -87,7 +62,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salahsaleh1015E&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
