@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Clean%20Architecture%20Lover;Building%20Scalable%20Apps;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&size=22">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salahsaleh1015&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
